@@ -1,0 +1,17 @@
+.P{
+	display:grid;
+	grid-template-columns:1fr 1fr;
+	gap:10px;
+	div{
+		border:5px lightcoral solid;
+		background:lightgreen;
+		color:blue;
+		font-weight:bold;
+	}
+}
+
+body{
+	font-size:20px;
+	font-family:vrinda;
+	background:lightblue;
+}
